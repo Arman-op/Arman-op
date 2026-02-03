@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arman-op" alt="arman-op" /></a> </p>
 
-- 🔭 I’m currently working on **IPO Web Application using REST API for Mobile Application**
+- 🔭 I’m currently in Pre-Final year 
 
 - 🌱 I’m currently learning **MERN Stack**
 
