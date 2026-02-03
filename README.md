@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **armanchoudhary950@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13PubVTz9wbovVXwXoDAVVyWFnCKLTZ8x/view?usp=sharing](https://drive.google.com/file/d/1bo2MK5Yf9vq9YYLjGSvkWycAKX6bJc38/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/12hhDBShVFwlcvErrKEXc4RqJEUAJdNgG/view?usp=drive_link]
 
 - ⚡ Fun fact **I write code like I play BGMI—strategic, focused, and sometimes aggressively fast.**
 
