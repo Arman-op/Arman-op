@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-roan-one-11.vercel.app/](https://portfolio-roan-one-11.vercel.app/)
 
-- 💬 Ask me about **React , Vue , Express , Java , Backend , Frontend**
+- 💬 Ask me about **React , Vue , Express , Java , Backend , Frontend**.
 
-- 📫 How to reach me **armanchoudhary950@gmail.com**
+- 📫 How to reach me **armanchoudhary950@gmail.com** .
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12hhDBShVFwlcvErrKEXc4RqJEUAJdNgG/view?usp=drive_link]
 
