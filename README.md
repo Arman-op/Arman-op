@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React , Vue , Express , Java , Backend , Frontend**.
 
-- 📫 How to reach me **armanchoudhary950@gmail.com** ..
+- 📫 How to reach me **armanchoudhary950@gmail.com** .
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12hhDBShVFwlcvErrKEXc4RqJEUAJdNgG/view?usp=drive_link]
 
