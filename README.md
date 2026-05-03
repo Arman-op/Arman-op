@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently in Pre-Final year.<br><br>🔭 I’m currently Contributing in Haskell Foundation as a GSoC Contributor.<br><br>🌱 I’m open for an opprtunity to Work as a Full Stack Developer.<br><br>👨‍💻 All of my projects are available at https://portfolio-ghostanza950-1975s-projects.vercel.app/<br><br>💬 Ask me about React , Vue , Express , Java , Backend , Frontend.<br><br>📫 How to reach me armanchoudhary950@gmail.com .<br><br>📄 Know about my experiences [https://drive.google.com/file/d/12hhDBShVFwlcvErrKEXc4RqJEUAJdNgG/view?usp=drive_link]<br><br>⚡ Fun fact I write code like I play BGMI—strategic, focused, and sometimes aggressively fast.
+🔭 I’m currently in Pre-Final year.<br><br>🔭 I’m currently Contributing in Haskell Foundation as a GSoC Contributor.<br><br>🌱 I’m open for an opprtunity to Work as a Full Stack Developer.<br><br>👨‍💻 All of my projects are available at [Portfolio](https://portfolio-ghostanza950-1975s-projects.vercel.app/)<br><br>💬 Ask me about React , Vue , Express , Java , Backend , Frontend.<br><br>📫 How to reach me [Email](armanchoudhary950@gmail.com) .<br><br>📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Bp3QWFl9IXzb297B_ZSaFz7X0xC6dl5_/view?usp=drive_link)
+<br><br>⚡ Fun fact I write code like I play BGMI—strategic, focused, and sometimes aggressively fast.
 
 
 ## 🌐 Socials:
